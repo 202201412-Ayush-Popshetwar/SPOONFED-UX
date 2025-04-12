@@ -7,6 +7,4 @@ Spoonfed is a social-first restaurant networking app that helps food lovers disc
 [Survey we conducted](https://docs.google.com/forms/d/e/1FAIpQLSdZhfekwdLlH-9JknfHHMvvHbBCVMwTK3qpXAKRArHe3Q1Sjg/viewform?usp=dialog)
 
 Group 30 Members:
-Ayush Popshetwar
-Gunesha Shahu 
-Khushi Prajapati
+Ayush Popshetwar, Gunesha Shahu and Khushi Prajapati
